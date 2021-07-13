@@ -76,4 +76,6 @@ Please refer to:
 * [the full Payments documentation](./payments.md) to learn about the complete payment flow
 * [the Platform API documentation](./platform_API.md) to learn how to confirm the payment and acknowledge it from your
   server
+* [the SDK reference documentation](./SDK_reference.md) to learn about the details of all available SDK commands
+* [the postMessage reference documentation](./postMessage_reference.md) to learn how to use lower-level `postMessage` commands
 * the Demo App (coming soon!) to view an example of how you can implement the various required flows in your app's code.
